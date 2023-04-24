@@ -18,6 +18,9 @@ export default function App({ Component, pageProps }) {
             <div>
               <Link href="/api/hello">API</Link>
             </div>
+            <div>
+              <Link href="/blog">Blog stuff</Link>
+            </div>
           </div>
         </div>
       </header>
